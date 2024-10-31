@@ -1,0 +1,9 @@
+.hide-box, .error-exclude-page {
+    display: none;
+}
+.error-exclude-page {
+    color: red;
+}
+.error-exclude-page.show {
+    display: block;
+}

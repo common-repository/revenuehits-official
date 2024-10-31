@@ -1,0 +1,74 @@
+{
+  "FOOTER": {
+    "name": "footer",
+    "niceName": "Footer",
+    "params": {
+      "appid": "wp003",
+      "size": "728x90",
+      "device": "ALL"
+    }
+  },
+  "POPUNDER": {
+    "name": "popunder",
+    "niceName": "Pop Under",
+    "params": {
+      "appid": "wp003",
+      "device": "ALL",
+      "prhybridPop": "true"
+    }
+  },
+  "MOBILE_DIALOG": {
+    "name": "dialog",
+    "niceName": "Mobile Dialog",
+    "extra": "prmsg",
+    "params": {
+      "appid": "wp003",
+      "device": "ALL",
+      "prmsg": "mobile dialog"
+    }
+  },
+  "MOBILE_INTERSTITIAL": {
+    "name": "minter",
+    "niceName": "Mobile Interstitial",
+    "params": {
+      "appid": "wp003",
+      "device": "MOBILE",
+      "size": "Fullscreen"
+    }
+  },
+  "SHADOWBOX": {
+    "name": "shadow_box",
+    "niceName": "Shadow Box",
+    "params": {
+      "appid": "wp003",
+      "size": "300x250",
+      "device": "ALL"
+    }
+  },
+  "TOP_BANNER": {
+    "name": "topbanner",
+    "niceName": "Top Banner",
+    "params": {
+      "appid": "wp003",
+      "size": "10x10",
+      "device": "ALL"
+    }
+  },
+  "FLOATING_BANNER": {
+    "name": "float",
+    "niceName": "Floating Banner",
+    "params": {
+      "appid": "wp003",
+      "size": "130x130",
+      "device": "ALL"
+    }
+  },
+  "INTERSTITIAL": {
+    "name": "interstitial",
+    "niceName": "Interstitial",
+    "params": {
+      "appid": "wp003",
+      "device": "ALL"
+    }
+  }
+}
